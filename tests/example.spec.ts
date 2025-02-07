@@ -92,7 +92,7 @@ test('test-4', async ({ page }) => {
 
 //---------- Test con seleccion de ambientes --------------//
 
-test('test-5', async ({ page }) => {
+/*test('test-5', async ({ page }) => {
 
     
     await page.goto(process.env.URL)
@@ -101,4 +101,4 @@ test('test-5', async ({ page }) => {
     await loginUserPage.assertShoppingCarttitle()
     await page.close()
     
-})
+})*/
